@@ -19,4 +19,6 @@ void main() {
   //const
   const username = 'ryu';
 
+  print('Nama $name Nomor $num1 Nomor $num2 Benar? $selec Username $username');
+
 }
